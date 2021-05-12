@@ -12,7 +12,7 @@ For application was used:
 Repository contain 2 folders:
 
 * path_planning - this ros package integrate to your catkin workaspace
-* technical_report - folder contain technical report for this project in [[czech lang.]](https://en.wikipedia.org/wiki/Czech_language).
+* technical_report_and_presentation - folder contain technical report for this project and presentation about some ai problematics, both is in [[czech lang.]](https://en.wikipedia.org/wiki/Czech_language).
 
 ### Note
 Algorithms wasn't programmed in the most elegantly way. Main reason is attempt to avoid common solutions.
