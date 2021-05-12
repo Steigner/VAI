@@ -16,7 +16,7 @@ Repository contain 2 folders:
 
 ### Note
 Algorithms wasn't programmed in the most elegantly way. Main reason is attempt to avoid common solutions.
-Time of finding solution is horrible, so in conclusion is better use modification of standalone algorithms as BiRRT etc... or programmed it in C++ or some faster prog. language alternativly Julia.
+Time of finding solution is horrible, so in conclusion for real world application is better use modification of standalone algorithms as BiRRT etc... or programmed it in C++ or some faster prog. language alternativly Julia.
 
 ### How to run?
 #### Install dependencies
