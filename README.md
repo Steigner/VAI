@@ -9,9 +9,14 @@ For application was used:
 * Moveit 1
 * Python 2 -> with added library Plotly
 
+Repository contain 2 folders:
+
+* path_planning - this ros package integrate to your catkin workaspace
+* technical_report - folder contain technical report for this project in [[czech lang.]](https://en.wikipedia.org/wiki/Czech_language).
+
 ### Note
 Algorithms wasn't programmed in the most elegantly way. Main reason is attempt to avoid common solutions.
-Time of finding solution is horrible, so in conclusion is better use modification of standalone algorithms as BiRRT etc... or programmed it in C++ or some faster prog. language.
+Time of finding solution is horrible, so in conclusion is better use modification of standalone algorithms as BiRRT etc... or programmed it in C++ or some faster prog. language alternativly Julia.
 
 ### How to run?
 #### Install dependencies
