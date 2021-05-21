@@ -20,9 +20,9 @@ Time of finding solution is horrible, so in conclusion for real world applicatio
 
 ### Future work
 
-* add for ROS Noetic
+* adit for ROS Noetic
 * add BiRRT, GPU RRT, ...
-* add option to run in C/C++, Julia
+* add option to run in C/C++
 
 ### How to run?
 #### Install dependencies
