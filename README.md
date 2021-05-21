@@ -18,6 +18,12 @@ Repository contain 2 folders:
 Algorithms wasn't programmed in the most elegantly way. Main reason is attempt to avoid common solutions.
 Time of finding solution is horrible, so in conclusion for real world application is better use modification of standalone algorithms as BiRRT etc... or programmed it in C++ or some faster prog. language alternativly Julia.
 
+### Future work
+
+* add for ROS Noetic
+* add BiRRT, GPU RRT, ...
+* add option to run in C/C++, Julia
+
 ### How to run?
 #### Install dependencies
 * [ROS] http://wiki.ros.org/melodic/Installation/Ubuntu
