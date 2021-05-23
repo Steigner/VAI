@@ -11,7 +11,7 @@ Moveit 1
 Programming-Language
 ```
 ```
-Python 2 -> with added library Plotly
+Python 2
 ```
 ```javascript
 Library
