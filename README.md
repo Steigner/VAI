@@ -8,17 +8,12 @@ ROS Melodic
 Moveit 1
 ```
 ```javascript
-Programming-Language
+Programming-Language, Library
 ```
 ```
 Python 2
-```
-```javascript
-Library
-```
-```
-python standard library
-Plotly
+- python standard library
+- Plotly
 ```
 
 ```javascript
