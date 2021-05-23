@@ -6,8 +6,21 @@ Software
 OS Ubuntu 18.04
 ROS Melodic
 Moveit 1
+```
+```javascript
+Programming-Language
+```
+```
 Python 2 -> with added library Plotly
 ```
+```javascript
+Library
+```
+```
+python standard library
+Plotly
+```
+
 ```javascript
 Algorithms
 ```
