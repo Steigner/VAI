@@ -35,6 +35,7 @@ Time of finding solution is horrible, so in conclusion for real world applicatio
 * add Greedy best first-search, BiA*, ...
 * add BiRRT, GPU RRT, ...
 * add option to run in C/C++ or alternativly core compute of algo in Julia with communication by **RobotOS.jl**
+* create own approach of trajectory with IK, FK and smoothing trajectory by Beziér curves, etc ... (in this stage is use moveit linear trajectory)
 
 ### How to run?
 #### Install dependencies
