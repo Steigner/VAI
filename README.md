@@ -35,6 +35,9 @@ Time of finding solution is horrible, so in conclusion for real world applicatio
 * [MOVEIT] https://moveit.ros.org/install/
 * [ROS Universal Robot] https://github.com/ros-industrial/universal_robot.git
 * [Universal Robots ROS Driver] https://github.com/UniversalRobots/Universal_Robots_ROS_Driver
+
+Create catkin workspace, implicate dependent packages include **path_planning** from this repository.
+
 #### Simulation in Gazebo
 ```javascript
 Terminal
