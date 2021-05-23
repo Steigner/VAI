@@ -8,6 +8,13 @@ ROS Melodic
 Moveit 1
 Python 2 -> with added library Plotly
 ```
+```javascript
+Algorithms
+```
+```
+A*  = v1.0
+RRT = v1.0
+```
 
 This repository contain very simple approach of appliacation and comparation A* and RRT algorithm for path planning cobot UR3 from Universal Robots.
 
