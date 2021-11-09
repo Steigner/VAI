@@ -12,7 +12,7 @@ Programming-Language, Library
 ```
 ```
 Python 2
-- python standard library
+- Python standard library
 - Plotly
 ```
 
